@@ -3,7 +3,7 @@
 This is a simple web application that shows detailed information of any country using a public API.
 Just type the country name and the app instantly displays its flag, capital, population, region, time zone, currency, and more.
 
-LIVE: 
+LIVE: https://surajgupta125.github.io/country-web/
 
 Features
 
